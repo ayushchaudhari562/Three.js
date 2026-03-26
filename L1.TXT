@@ -1,4 +1,4 @@
 starting the journey of three.js
-in this we will learn the basic of three.js
+in this we will learn the basic to advanceof three.js
 
 happy coding .....
